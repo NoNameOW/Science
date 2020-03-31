@@ -3,7 +3,7 @@
 <head>Home Page</head>
 </title>
 <h1>
-A Rocks Journey
+My Science Website
 </h1>
 <br>
 </html>
